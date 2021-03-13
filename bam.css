@@ -1,0 +1,43 @@
+.fi {
+	position: absolute;
+	background-color: white;
+	font-family: 'Ranchers', cursive;
+    font-size: 450%;
+	top: 2%;
+	left: 28%;
+	height:0%;
+}
+.fi1 {
+  position:absolute;
+    background-image: url(codigo.jpeg);
+	background-color: black;
+	font-size: 200%;
+	top:25%;
+	left:2%;
+	height:120%;
+	width: 50%;
+	background-size: cover;
+}
+.fi2 {
+  position:absolute;
+    background-image: url(codigo3.jpeg);
+	background-color: black;
+	font-size: 200%;
+	top:65%;
+	left:2%;
+	height:120%;
+	width: 90%;
+	background-size: cover;
+}
+.fi3 {
+	position: absolute;
+	background-image: url(fondo2.jpg);
+	font-family: 'Source Code Pro', monospace;
+    font-size: 150%;
+	top: 23%;
+	left: 54%;
+	width: 35%;
+	height: 38%;
+	border: black 5px solid;
+	background-size: cover;
+}
